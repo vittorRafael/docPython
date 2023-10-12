@@ -10,6 +10,7 @@
 - `str.upper()` -> Deixa tudo maiúsculo.
 - `str.lower()` -> Deixa tudo minúsculo.
 - `str.capitalize()` -> Primeira letra maiúscula.
+- `str.title()` -> Deixa todas as palavras com primeira letra maiúscula.
 - `str.lstrip()` -> elimina espaços ao lado esquerdo.
 - `str.rstrip()` -> elimina espaços ao lado direito.
 - `str.strip()` -> elimina espaços de ambos os lados.
