@@ -13,7 +13,8 @@
 - `len(prt)` -> "prt" pode ser uma string ou uma lista, a função len irá retornar seu comprimento/tamanho.
 - `range(inicio, final, intervalo)` -> "inicio" é um inteiro de onde irá iniciar a contagem senão for passado irá ser 0, "final" é um inteiro de a progressão irá parar, "intervalo" é um inteiro que representa o intervalo entra os números se não for passado irá ser 1, a função range é utilizada para criar progressões aritméticas.
 - `sum(lista)` -> "lista" seria uma lista de inteiros, a função sum irá somar todos os inteiros da lista e retornar o resultado.
-- `sorted(lista)` -> Organiza a lista em ordem alfabética apenas naquele momento. 
+- `sorted(lista)` -> Organiza a lista em ordem alfabética apenas naquele momento.
+- `list(valor)` -> pega o valor passado e transforma em uma lista. Ex: `list(range(0, 100))`
 
 ## String
 
