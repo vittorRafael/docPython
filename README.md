@@ -32,7 +32,7 @@
 ### Observações
 
 1. Passando um número negativo, irá retornar elementos a partir do último index.
-2. Passando `[indexInicial:indexFinal]` irá pegar o intervalo desses elementos (ambos estarão inclusos).
+2. Passando `[indexInicial:indexFinal]` irá pegar o intervalo desses elementos (somente o indexInicial esta incluso, o final não).
 
 ### Métodos
 
