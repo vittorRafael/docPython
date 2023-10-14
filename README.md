@@ -38,4 +38,6 @@
 - `lista.clear()` -> Limpa a lista.
 - `lista.index(prt)` -> "prt" é o valor a ser achado, verifica o parâmetro e retorna o index se existir na lista.
 - `lista.append(prt)` -> "prt" é o valor a ser adicionado, verifica o parâmetro e adiciona ao final da lista.
+- `lista.insert(index, valor)` -> "index" onde ira ser adicionado o novo valor, "valor" valor a ser adicionado na lista.
+- `lista.extend(string)` -> "string" valor que irá ser separado e adicionado na lista. exemplo `carros.extend('fusca') carros = ['f','u','s','c','a']`
   
