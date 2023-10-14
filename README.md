@@ -40,4 +40,7 @@
 - `lista.append(prt)` -> "prt" é o valor a ser adicionado, verifica o parâmetro e adiciona ao final da lista.
 - `lista.insert(index, valor)` -> "index" onde ira ser adicionado o novo valor, "valor" valor a ser adicionado na lista.
 - `lista.extend(string)` -> "string" valor que irá ser separado e adicionado na lista. exemplo `carros.extend('fusca') carros = ['f','u','s','c','a']`
+- `del lista[index]` -> irá deletar o elemento que estiver no "index" passado.
+- `lista.pop(index)` -> remove o último elemento da lista se não passar nenhum index, passando o index irá remover o elemento daquela posição.
+- `lista.remove(valor)` -> remove o elemento da lista pelo valor.
   
